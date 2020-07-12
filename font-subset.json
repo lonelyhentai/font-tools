@@ -1,0 +1,8 @@
+[
+  {
+    "source_font_path": "./fonts/Helvetica.ttf",
+    "project_save_path": "./fonts/Helvetica-subset.sfd",
+    "target_font_path": "./fonts/Helvetica-subset.woff",
+    "subset": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
+  }
+]
