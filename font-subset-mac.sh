@@ -1,0 +1,1 @@
+./bin/FontForge.app/Contents/Frameworks/Python.framework/Versions/3.9/bin/python3.9 ./font-subset.py
